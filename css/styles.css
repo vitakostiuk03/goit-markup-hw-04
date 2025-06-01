@@ -134,7 +134,7 @@ a{
 .main-section{
     background-color: #2e2f42;
     padding: 188px 0;
-    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/img-name.jpeg);
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office1-min.png);
     max-width: 1440px;
     background-repeat: no-repeat;
     background-position: center;
@@ -344,6 +344,9 @@ a{
     line-height: 1.5;
 }
 
+.text-container:hover{
+    transform: translateY(0%);
+}
 
 .site-footer{
     background-color:  #2e2f42;
